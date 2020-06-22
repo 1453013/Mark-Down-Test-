@@ -135,7 +135,7 @@ Account if not present should be created in respective environment. This
 account is used for authentication when mobile force access integrating
 instance for search and updates.
 
-![](media/rId24.png)
+![](/media/rId24.png"")
 
 ![](media/rId25.png)
 
